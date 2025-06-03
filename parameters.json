@@ -1,0 +1,8 @@
+{
+  "authority": "Inserir_Autority",
+  "client_id": "Cliend_ID",
+  "scope": [ "https://graph.microsoft.com/.default" ],
+  "secret": "Secret",
+  "endpoint": "https://graph.microsoft.com/v1.0/sites?search=*"
+
+}
